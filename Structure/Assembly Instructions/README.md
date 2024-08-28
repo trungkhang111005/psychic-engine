@@ -5,7 +5,7 @@
 ### Step 1: Insert the Castor Balls and Bearings
 Insert the 3 castor balls into the rear wheel castor ball slots, then insert the 2 bearings into their respective slots.
 
-![Castor Ball and Bearing Insertion](./images/Differential/castor_ball_insert.jpg)  <!-- Corrected path -->
+![Castor Ball Insertion](images/Differential/castor_ball_insert.jpg)  <!-- Corrected path -->
 
 ### Step 2: Secure the Motor
 Lock the motor into its place with M3 screws. Ensure the screws are firmly tightened, as vibrations from the motor can loosen the screws over time.
