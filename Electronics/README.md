@@ -1,6 +1,7 @@
 # Electronics Setup
 
 ## Components Needed
+- **Controller**: bluetooth supported controller (Xbox, etc.)
 - **Microcontroller**: ESP32
 - **Motor**: Surpass Hobby Platinum Waterproof Series, 28 mm diameter, 47 mm length
 - **ESC**: Surpass Hobby Platinum Waterproof 45 A
@@ -25,15 +26,16 @@
      https://raw.githubusercontent.com/ricardoquesada/esp32-arduino-lib-builder/master/bluepad32_files/package_esp32_bluepad32_index.json
      ```
    - Go to `Tools > Board > Boards Manager`, search for "ESP32", and install.
+   - Select ESP32 Dev Module board or esp32 board of your choice.
 
 2. **Install Bluepad32 Library**:
    - Go to `Tools > Manage Libraries`, search for "Bluepad32", and install it.
 
 3. **Upload the Arduino Script**:
    - Connect the ESP32 via USB.
-   - Open the script from the `Arduino` folder.
+   - Open the script from the [](Arduino) folder.
    - Select the correct board and port, then upload the script.
-
+   - turn on your controller and pair the controller with the esp32
 ## Layout and Wiring
 1. **Component Placement**:
    - Place the MOSFET and buck converter on the breadboard.
@@ -53,9 +55,9 @@
      - Connect servo power to the same row as BEC positive.
 
 ## Testing
-1. Power up the setup and verify connections.
+1. Power up the setup and verify signals to motor and servo.
 2. Use the Arduino IDE serial monitor for debugging.
 
 ## Usage
 - Power on the car by connecting the battery to the ESP32.
-- Use the RC controller or a mobile app to navigate the car.
+- Use the controller to navigate the car.

@@ -27,18 +27,18 @@
    - **PETG Parts**: 50-75% infill, gyroid or triangle for strength.
 
 3. **Printing Process**:
-   - Download CAD files from the `SolidWorks` folder.
+   - Download CAD files from the [](SolidWorks) folder.
    - Slice parts based on material and infill settings.
    - Print using a 3D printer with a plate size of at least 235x235 mm.
 
 ## Assembly Steps
 1. **Chassis and Steering Assembly**:
-   - Follow images in the `/Images/` folder for detailed instructions.
+   - Follow instructions in [](Assembly_Instructions/README.md) for detailed instructions.
    - Attach the steering and differential parts.
 
 2. **Motor and Electronics Mounting**:
    - Secure motor to the chassis.
-   - Integrate electronics following the `/Electronics/README.md`.
+   - Integrate electronics following the [](../Electronics/README.md`).
 
 ## Testing and Adjustments
 - Ensure all parts are fitted securely.
