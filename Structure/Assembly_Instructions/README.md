@@ -22,7 +22,7 @@ Use a bar or F-clamp to press the pinion gear onto the motor shaft. The interfer
 ### Step 4: Insert the Right Rear Wheel Axle
 Insert the right rear wheel axle into its designated slot.
 
-![Right Rear Wheel Axle Insertion](./images/Differential/diff_right_axel_inserting.JPG)  <!-- Corrected path -->
+![Right Rear Wheel Axle Insertion](./images/Differential/diff_right_axle_inserting.JPG)  <!-- Corrected path -->
 
 ### Step 5: Assemble the Differential Gearbox
 1. Assemble the differential gearbox.
@@ -34,12 +34,12 @@ Insert the right rear wheel axle into its designated slot.
 
    ![Axle Gear Insertion](./images/Differential/diff_axle_gears_opposite_side.JPG)  <!-- Corrected path -->
 
-   ![Axle Gear Alignment Check](./images/Differential/diff_checking_axel_gear_allignment.JPG)  <!-- Corrected path -->
+   ![Axle Gear Alignment Check](./images/Differential/diff_checking_axle_gear_allignment.JPG)  <!-- Corrected path -->
 
 ### Step 6: Position the Gearbox
 Slide the gearbox at an angle between the right axle and the pinion gear to fix it in place.
 
-![Gearbox Positioning](./images/Differential/gearbox_inserting.JPG)  <!-- Corrected path -->
+![Gearbox Positioning](./images/Differential/gear_box_inserting.JPG)  <!-- Corrected path -->
 
 ![Gearbox Positioned](./images/Differential/gear_box_inserted.JPG)  <!-- Corrected path -->
 
