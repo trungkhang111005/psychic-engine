@@ -47,9 +47,10 @@ These goals are designed to guide the project towards developing a versatile and
 ## 6. Getting Started
 
 ### 6.1 Prerequisites
-1. SolidWorks installed for viewing and modifying CAD files.
-2. Arduino IDE configured to work with ESP32 for uploading the script.
-3. A Sovol SV06 3D printer (or any FDM printer) with a print plate size of at least 235x235 mm.
+1. SolidWorks (or any CAD software) installed for viewing and modifying CAD files.
+2. Slicing software suitable for your printer.
+3. Arduino IDE configured to work with ESP32 for uploading the script.
+4. A Sovol SV06 3D printer (or any FDM printer) with a print plate size of at least 235x235 mm.
 
 ### 6.2 Steps
 
