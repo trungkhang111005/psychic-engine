@@ -45,12 +45,28 @@ These goals are designed to guide the project towards developing a versatile and
    - Setup instructions for the electronic components.
 
 ## 6. Getting Started
-### Prerequisites
+
+### 6.1 Prerequisites
 1. SolidWorks installed for viewing and modifying CAD files.
 2. Arduino IDE configured to work with ESP32 for uploading the script.
 3. A Sovol SV06 3D printer (or any FDM printer) with a print plate size of at least 235x235 mm.
 
-### Demo
+### 6.2 Steps
+
+1. **3D Printing the Parts**:
+   - Navigate to the `/Structure/` folder.
+   - Follow the instructions provided in the 3D printing instructions file to prepare and print all the necessary components.
+
+2. **Assembling the Car**:
+   - Go to the `/Structure/Assembly_Instructions/` subfolder.
+   - Follow the detailed assembly instructions provided to assemble the 3D-printed parts into the final RC car structure.
+
+3. **Setting Up Electronics**:
+   - Navigate to the `/Electronics/` folder.
+   - Follow the instructions provided to connect the Xbox controller to the ESP32 microcontroller.
+   - Refer to the motor/servo wiring instructions to correctly wire the motor and servo to the ESP32.
+
+### 6.3 Demo
 [Watch the RC car in action](https://www.youtube.com/watch?v=example)
 
 ## 7. Challenges and Solutions
@@ -90,7 +106,7 @@ Looking forward, several enhancements are planned to elevate the functionality a
 
 2. **Adding a First-Person Camera with Microphone**: To enhance the user experience and expand the car's applications, a first-person view (FPV) camera will be installed alongside a microphone to capture ambient sounds. This setup will enable the car to be used for inspections and monitoring in various settings such as factories, construction sites, or natural environments, providing both visual and auditory feedback.
 
-3. **Transitioning to Radio Signal Control**: To extend the operational range and reliability of the control system, the project plans to transition from Bluetooth to radio signal-based control. This shift will allow for longer-range operation and a more stable connection, improving the car’s performance in various environments.
+3. **Transitioning to Radio Signal Control**: To extend the operational range and reliability of the control system, the project plans to transition from Bluetooth to radio signal-based control. This shift will allow for longer-range operation and a more stable connection, improving the carâ€™s performance in various environments.
 
 4. **Solar-Powered Charging System**: Integrating solar panels into the car's design is planned to provide an additional power source. This could supplement the battery or allow for continuous operation in sunny conditions, increasing the car's autonomy and reducing the need for frequent battery charging.
 
