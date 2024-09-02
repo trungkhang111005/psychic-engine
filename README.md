@@ -1,5 +1,26 @@
 # Psychic-Engine: 3D-Printed RC Car Project
 
+## Table of Contents
+
+1. [Introduction](#1-introduction)
+2. [Goals](#2-goals)
+3. [Features](#3-features)
+4. [Technologies Used](#4-technologies-used)
+5. [Project Structure](#5-project-structure)
+6. [Getting Started](#6-getting-started)
+   - [Prerequisites](#61-prerequisites)
+   - [Steps](#62-steps)
+   - [Demo](#63-demo)
+7. [Challenges and Solutions](#7-challenges-and-solutions)
+   - [Electronics](#71-electronics)
+   - [Rear Differential Drive](#72-rear-differential-drive)
+   - [Steering System](#73-steering-system)
+8. [Future Improvements](#8-future-improvements)
+9. [License](#9-license)
+10. [Acknowledgments](#10-acknowledgments)
+11. [Contact](#11-contact)
+12. [Project Website](#12-project-website)
+
 ## 1. Introduction
 This project involves the design, 3D printing, and assembly of a fully functional RC car, controlled by an ESP32 microcontroller. The car features a custom-designed rear differential and a rack-and-pinion steering system based on the Ackerman principle to avoid skidding. All parts are custom-designed, with the exception of a few metal machined parts where higher durability and precision were required.
 
