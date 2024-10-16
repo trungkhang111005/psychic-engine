@@ -27,7 +27,7 @@
    - **PETG Parts**: 50-75% infill, gyroid or triangle for strength.
 
 3. **Printing Process**:
-   - Download CAD files from the [](SolidWorks) folder.
+   - Download CAD files from the [Solidworks](Solidworks), [.step](.step) or [.stl](.stl) folder.
    - Slice parts based on material and infill settings.
    - Print using a 3D printer with a plate size of at least 235x235 mm.
 
