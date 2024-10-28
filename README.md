@@ -144,6 +144,3 @@ Looking forward, several enhancements are planned to elevate the functionality a
 
 ## 11. Contact
 If you have any questions or want to collaborate, feel free to reach out to me at trungkhang1110@gmail.com.
-
-## 12. Project Website
-Visit the [Project Website](https://your-username.github.io/3D-Printed-RC-Car) for more details.
