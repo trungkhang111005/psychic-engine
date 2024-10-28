@@ -10,7 +10,7 @@
 6. [Getting Started](#6-getting-started)
    - [Prerequisites](#61-prerequisites)
    - [Steps](#62-steps)
-   - [Demo](#63-demo)
+   - [Demo Videos](#63-demo-videos)
 7. [Challenges and Solutions](#7-challenges-and-solutions)
    - [Electronics](#71-electronics)
    - [Rear Differential Drive](#72-rear-differential-drive)
@@ -88,7 +88,7 @@ These goals are designed to guide the project towards developing a versatile and
    - Follow the instructions provided to connect the Xbox controller to the ESP32 microcontroller.
    - Refer to the motor/servo wiring instructions to correctly wire the motor and servo to the ESP32.
 
-### 6.3 Demo
+### 6.3 Demo Videos
 
 [Watch the RC car in action](https://youtu.be/J6uigz7IrvU)
 
