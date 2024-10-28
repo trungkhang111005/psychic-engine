@@ -60,7 +60,7 @@ These goals are designed to guide the project towards developing a versatile and
 1. **/Structure/**
    - Contains the `SolidWorks` folder with all CAD files.
    - 3D printing instructions
-   - Contains the `Assembly_Instructions` folder with detail assembly steps
+   - Contains the `Assembly_Instructions` folder with detail images of assembly steps
 2. **/Electronics/**
    - Contains the `Arduino` folder with ESP32 scripts.
    - Setup instructions for the electronic components.
