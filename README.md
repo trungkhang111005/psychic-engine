@@ -58,7 +58,7 @@ These goals are designed to guide the project towards developing a versatile and
 
 ## 5. Project Structure
 1. **[Structure](./Structure/)**
-   - Contains the **[SolidWorks](./Structure/SolidWorks/)** folder with all CAD files.
+   - Contains the **[SolidWorks](./Structure/Solidworks/)** folder with all CAD files.
    - 3D printing instructions
    - Contains the **[Assembly_Instructions](./Structure/Assembly_Instructions/)** folder with detail images of assembly steps
 2. **/Electronics/**
