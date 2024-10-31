@@ -144,6 +144,7 @@ Looking forward, several enhancements are planned to elevate the functionality a
 
 ## 10. Acknowledgments
 - Thanks to [Bluepad32](https://github.com/ricardoquesada/bluepad32.git) for the initial ESP32 code framework.
+- Thanks to [The Engineering Mindset](https://youtu.be/vpbhvxAM0io?si=aknrSyXhpb9AykjJ) for inspiring the modelling of the differntial gearbox model.
 
 ## 11. Contact
 If you have any questions or want to collaborate, feel free to reach out to me at trungkhang1110@gmail.com.
