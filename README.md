@@ -143,6 +143,7 @@ Looking forward, several enhancements are planned to elevate the functionality a
 - The SolidWorks design files are licensed under the Creative Commons Attribution 4.0 International License.
 
 ## 10. Acknowledgments
+- Special thanks to Brendon Kennard for providing the BLDC motor for this project.
 - Thanks to [Bluepad32](https://github.com/ricardoquesada/bluepad32.git) for the initial ESP32 code framework.
 - Thanks to [The Engineering Mindset](https://youtu.be/vpbhvxAM0io?si=aknrSyXhpb9AykjJ) for inspiring the modelling of the differntial gearbox model.
 
