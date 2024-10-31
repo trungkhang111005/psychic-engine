@@ -19,7 +19,10 @@
 9. [License](#9-license)
 10. [Acknowledgments](#10-acknowledgments)
 11. [Contact](#11-contact)
-12. [Project Website](#12-project-website)
+
+<div style="text-align: center;">
+    <img src="./Structure/Assembly_Instructions/images/RC-car.png" width="1000" alt="psychic-engine">
+</div>
 
 ## 1. Introduction
 This project involves the design, 3D printing, and assembly of a fully functional RC car, controlled by an ESP32 microcontroller. The car features a custom-designed rear differential and a rack-and-pinion steering system based on the Ackerman principle to avoid skidding. All parts are custom-designed, with the exception of a few metal machined parts where higher durability and precision were required.
