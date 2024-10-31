@@ -10,7 +10,7 @@
 6. [Getting Started](#6-getting-started)
    - [Prerequisites](#61-prerequisites)
    - [Steps](#62-steps)
-   - [Demo](#63-demo)
+   - [Demo Videos](#63-demo-videos)
 7. [Challenges and Solutions](#7-challenges-and-solutions)
    - [Electronics](#71-electronics)
    - [Rear Differential Drive](#72-rear-differential-drive)
@@ -57,12 +57,12 @@ These goals are designed to guide the project towards developing a versatile and
 5. **Programming Language**: C++ (for Arduino/ESP32 script)
 
 ## 5. Project Structure
-1. **/Structure/**
-   - Contains the `SolidWorks` folder with all CAD files.
+1. **[Structure](./Structure/)**
+   - Contains the **[SolidWorks](./Structure/Solidworks/)** folder with all CAD files.
    - 3D printing instructions
-   - Contains the `Assembly_Instructions` folder with detail assembly steps
+   - Contains the **[Assembly_Instructions](./Structure/Assembly_Instructions/)** folder with detail images of assembly steps
 2. **/Electronics/**
-   - Contains the `Arduino` folder with ESP32 scripts.
+   - Contains the **[Arduino](./Electronics/Arduino/)** folder with ESP32 scripts.
    - Setup instructions for the electronic components.
 
 ## 6. Getting Started
@@ -76,22 +76,23 @@ These goals are designed to guide the project towards developing a versatile and
 ### 6.2 Steps
 
 1. **3D Printing the Parts**:
-   - Navigate to the `/Structure/` folder.
+   - Navigate to the **[Structure](./Structure/)** folder.
    - Follow the instructions provided in the 3D printing instructions file to prepare and print all the necessary components.
 
 2. **Assembling the Car**:
-   - Go to the `/Structure/Assembly_Instructions/` subfolder.
+   - Go to the **[Assembly_Instructions](./Structure/Assembly_Instructions/)** subfolder.
    - Follow the detailed assembly instructions provided to assemble the 3D-printed parts into the final RC car structure.
 
 3. **Setting Up Electronics**:
-   - Navigate to the `/Electronics/` folder.
+   - Navigate to the **[Electronics](./Electronics/)** folder.
    - Follow the instructions provided to connect the Xbox controller to the ESP32 microcontroller.
    - Refer to the motor/servo wiring instructions to correctly wire the motor and servo to the ESP32.
 
-### 6.3 Demo
-[Watch the RC car in testing](https://youtu.be/PcJJqVZroOI?si=CFPb1v_Qr5A0FJ0J)
+### 6.3 Demo Videos
 
-[Watch the RC car in action](https://www.youtube.com/watch?v=example)
+[Watch me talking about the RC car and a demo of it in action](https://youtu.be/J6uigz7IrvU)
+
+[Watch the RC car in testing](https://youtu.be/PcJJqVZroOI?si=CFPb1v_Qr5A0FJ0J)
 
 ## 7. Challenges and Solutions
 
@@ -143,6 +144,3 @@ Looking forward, several enhancements are planned to elevate the functionality a
 
 ## 11. Contact
 If you have any questions or want to collaborate, feel free to reach out to me at trungkhang1110@gmail.com.
-
-## 12. Project Website
-Visit the [Project Website](https://your-username.github.io/3D-Printed-RC-Car) for more details.

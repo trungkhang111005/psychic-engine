@@ -14,7 +14,7 @@
 - **Fishing line**
 
 ## Motor Compatibility
-- Use a motor with a diameter between 25 mm and 29 mm, and length ? 47 mm.
+- Use a motor with a diameter between 25 mm and 29 mm, and length of 47 mm.
 - Adjust chassis file for motor diameter if outside standard range (add 0.5 mm for printing tolerance).
 
 ## 3D Printing Instructions
