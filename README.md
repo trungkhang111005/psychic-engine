@@ -19,7 +19,10 @@
 9. [License](#9-license)
 10. [Acknowledgments](#10-acknowledgments)
 11. [Contact](#11-contact)
-12. [Project Website](#12-project-website)
+
+<div style="text-align: center;">
+    <img src="./Structure/Assembly_Instructions/images/RC-car.png" width="1000" alt="psychic-engine">
+</div>
 
 ## 1. Introduction
 This project involves the design, 3D printing, and assembly of a fully functional RC car, controlled by an ESP32 microcontroller. The car features a custom-designed rear differential and a rack-and-pinion steering system based on the Ackerman principle to avoid skidding. All parts are custom-designed, with the exception of a few metal machined parts where higher durability and precision were required.
@@ -61,7 +64,7 @@ These goals are designed to guide the project towards developing a versatile and
    - Contains the **[SolidWorks](./Structure/Solidworks/)** folder with all CAD files.
    - 3D printing instructions
    - Contains the **[Assembly_Instructions](./Structure/Assembly_Instructions/)** folder with detail images of assembly steps
-2. **/Electronics/**
+2. **[Electronics](./Electronics/)**
    - Contains the **[Arduino](./Electronics/Arduino/)** folder with ESP32 scripts.
    - Setup instructions for the electronic components.
 
@@ -140,7 +143,9 @@ Looking forward, several enhancements are planned to elevate the functionality a
 - The SolidWorks design files are licensed under the Creative Commons Attribution 4.0 International License.
 
 ## 10. Acknowledgments
+- Special thanks to Brendon Kennard for providing the BLDC motor for this project.
 - Thanks to [Bluepad32](https://github.com/ricardoquesada/bluepad32.git) for the initial ESP32 code framework.
+- Thanks to [The Engineering Mindset](https://youtu.be/vpbhvxAM0io?si=aknrSyXhpb9AykjJ) for inspiring the modelling of the differntial gearbox model.
 
 ## 11. Contact
 If you have any questions or want to collaborate, feel free to reach out to me at trungkhang1110@gmail.com.
