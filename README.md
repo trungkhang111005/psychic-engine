@@ -93,9 +93,10 @@ These goals are designed to guide the project towards developing a versatile and
 
 ### 6.3 Demo Videos
 
-[Watch me talking about the RC car and a demo of it in action](https://youtu.be/J6uigz7IrvU)
+[![Watch me talking about the RC car and a demo of it in action](./Structure/Assembly_Instructions/images/thumbnail.png)](https://youtu.be/J6uigz7IrvU)
 
-[Watch the RC car in testing](https://youtu.be/PcJJqVZroOI?si=CFPb1v_Qr5A0FJ0J)
+
+[![Watch the RC car in testing](./Structure/Assembly_Instructions/images/thumbnail2.png)](https://youtu.be/PcJJqVZroOI?si=CFPb1v_Qr5A0FJ0J)
 
 ## 7. Challenges and Solutions
 
