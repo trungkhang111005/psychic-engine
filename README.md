@@ -92,9 +92,11 @@ These goals are designed to guide the project towards developing a versatile and
    - Refer to the motor/servo wiring instructions to correctly wire the motor and servo to the ESP32.
 
 ### 6.3 Demo Videos
+RC car in action and details
 
 [![Watch me talking about the RC car and a demo of it in action](./Structure/Assembly_Instructions/images/thumbnail.png)](https://youtu.be/J6uigz7IrvU)
 
+RC car testing
 
 [![Watch the RC car in testing](./Structure/Assembly_Instructions/images/thumbnail2.png)](https://youtu.be/PcJJqVZroOI?si=CFPb1v_Qr5A0FJ0J)
 
