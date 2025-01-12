@@ -98,7 +98,7 @@ Use the steering tie rod to connect the steering rack to the steering knuckles.
 Double-sided tape the ESC, breadboard, and buck converter. Lay the ESC on the left side of the chassis, the breadboard, and the buck converter on the right side.
 
 ### Step 16: Follow Electronics Setup
-Follow the steps detailed in the [Electronics Setup Guide](../../Electronics/README.md).
+Follow the steps detailed in the [Electronics Setup Guide](Electronics_Instructions.md).
 
 ### Step 17: Attach Bumpers
 Insert the front and rear bumpers into their designated slots. No glue is needed as they fit securely with interference fit.
