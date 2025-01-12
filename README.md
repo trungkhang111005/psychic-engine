@@ -96,6 +96,8 @@ RC car in action and details
 
 [![Watch me talking about the RC car and a demo of it in action](./Structure/Assembly_Instructions/images/thumbnail.png)](https://youtu.be/J6uigz7IrvU)
 
+[Watch the car drifting](https://youtu.be/YaZgg8Mr1b0?feature=shared)
+
 RC car testing
 
 [![Watch the RC car in testing](./Structure/Assembly_Instructions/images/thumbnail2.png)](https://youtu.be/PcJJqVZroOI?si=CFPb1v_Qr5A0FJ0J)
