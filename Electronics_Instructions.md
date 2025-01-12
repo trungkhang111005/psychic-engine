@@ -33,7 +33,7 @@
 
 3. **Upload the Arduino Script**:
    - Connect the ESP32 via USB.
-   - Open the script from the [](Arduino) folder.
+   - Open the script from the [folder](./Electronics/Arduino).
    - Select the correct board and port, then upload the script.
    - turn on your controller and pair the controller with the esp32
 ## Layout and Wiring
